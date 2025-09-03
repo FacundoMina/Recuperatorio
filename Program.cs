@@ -31,7 +31,8 @@ namespace Recuperatorio
                 Console.Clear();
 
                 if (opcion == 1)
-                {
+                {   
+                    Console.WriteLine("Elija el tipo de empleado a registrar:");
                     Console.WriteLine("1- Empleado Administrativo");
                     Console.WriteLine("2- Empleado Vendedor");
                     Console.Write("Ingrese el tipo de empleado a registrar: ");
@@ -117,6 +118,7 @@ namespace Recuperatorio
 
                 if (opcion == 3)
                 {   
+                    Console.WriteLine("Informacion General de todos los Empleados:");
                     int CantSueldos = 0;
                     foreach (Empleado empleado in ListaEmpleados)
                     {   
