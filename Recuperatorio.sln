@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recuperatorio", "Recuperatorio.csproj", "{DE5154CD-1DD7-4893-8225-BF3E2BC5F375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesRecuperatorio", "ClasesRecuperatorio\ClasesRecuperatorio.csproj", "{5846C893-E8F4-4288-B1AB-EDE5DFD37A37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5154CD-1DD7-4893-8225-BF3E2BC5F375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5154CD-1DD7-4893-8225-BF3E2BC5F375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5154CD-1DD7-4893-8225-BF3E2BC5F375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5154CD-1DD7-4893-8225-BF3E2BC5F375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5846C893-E8F4-4288-B1AB-EDE5DFD37A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5846C893-E8F4-4288-B1AB-EDE5DFD37A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5846C893-E8F4-4288-B1AB-EDE5DFD37A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5846C893-E8F4-4288-B1AB-EDE5DFD37A37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {960B7CBF-2914-4FBC-A5A8-8F5D648D7175}
+	EndGlobalSection
+EndGlobal
