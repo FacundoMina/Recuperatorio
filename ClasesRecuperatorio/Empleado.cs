@@ -11,7 +11,7 @@ namespace ClasesRecuperatorio
         public string nombre { get; set; }
         public string Apellido { get; set; }
         public int DNI { get; set; }
-        public float SueldoFinal { get; set; }
+       
         public string Tipo { get; set; }
 
         public float sueldo { get; set; }

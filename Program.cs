@@ -116,10 +116,10 @@ namespace Recuperatorio
                 }
 
                 if (opcion == 3)
-                {
+                {   
                     int CantSueldos = 0;
                     foreach (Empleado empleado in ListaEmpleados)
-                    {
+                    {   
                         Console.WriteLine($"Nombre:{empleado.nombre}, Apellido:{empleado.Apellido}, Tipo:{empleado.Tipo}");
                         CantSueldos++;
                     }
